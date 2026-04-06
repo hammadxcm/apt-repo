@@ -1,0 +1,36 @@
+Package: slay-port
+Version: 0.2.3
+Architecture: amd64
+Maintainer: Hammad Khan <hammadkhanxcm@gmail.com>
+Recommends: lsof
+Filename: ../../pool/main/s/slay-port/slay-port_0.2.3_amd64.deb
+Size: 28249220
+MD5sum: cbb52a523b5e7a0bc83bfc81846ddc5f
+SHA1: 5eea9a99b7144a05f17cecb942092fbe0808e80d
+SHA256: fc3a410ecbbcea22bdb2ace0e527524161036416f05ee52483eb1c98502cbf6a
+Section: utils
+Priority: optional
+Homepage: https://slay.fyniti.co.uk
+Description: Kill processes by port. Beautifully.
+ slay is a CLI tool for killing processes by port number with
+ interactive TUI, port ranges, profile presets, watch mode,
+ process tree killing, JSON output, and more.
+
+Package: slay-port
+Version: 0.2.3
+Architecture: arm64
+Maintainer: Hammad Khan <hammadkhanxcm@gmail.com>
+Recommends: lsof
+Filename: ../../pool/main/s/slay-port/slay-port_0.2.3_arm64.deb
+Size: 27668758
+MD5sum: 15ea5d0f5d620b0af3aed66a56726763
+SHA1: d41bd963ea22aab09dc15799f5cef11ee0b4bf82
+SHA256: df7ae294b54c9880030382bf63d039d2831379670836fb76cd9bfa9036dfcd87
+Section: utils
+Priority: optional
+Homepage: https://slay.fyniti.co.uk
+Description: Kill processes by port. Beautifully.
+ slay is a CLI tool for killing processes by port number with
+ interactive TUI, port ranges, profile presets, watch mode,
+ process tree killing, JSON output, and more.
+
